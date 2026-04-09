@@ -1,1 +1,1 @@
-<a href="https://app.rocketseat.com.br/me/marcelo-de-morais-prates-08967"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=marcelo-de-morais-prates-08967&type=card" width="350" alt="Marcelo de Morais Prates's Rocket ID"/></a>
+<a href="https://app.rocketseat.com.br/me/marcelo-de-morais-prates-08967"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=marcelo-de-morais-prates-08967&type=card" width="450" alt="Marcelo de Morais Prates's Rocket ID"/></a>
