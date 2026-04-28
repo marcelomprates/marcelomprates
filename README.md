@@ -29,7 +29,7 @@ Plataforma de PCP com integração IoT para chão de fábrica.
 
 ## 📫 Contato
 
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-perfil)
+- LinkedIn: www.linkedin.com/in/marcelo-de-morais-prates
 - Email: marcelomprates@gmail.com
 
 ---
