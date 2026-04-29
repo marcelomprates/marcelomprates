@@ -1,38 +1,45 @@
 # Olá, sou o Marcelo 👋
 
-Desenvolvedor focado em **automação industrial**, **IoT** e **sistemas de gestão**. Trabalho como PJ entregando soluções end-to-end para clientes que precisam tirar processos manuais do papel e colocá-los em produção.
+**Desenvolvedor Full Stack** com foco em **IA, Automação Digital e Integração de Sistemas**. Atuo na Scuadra Embalagens há quase uma década, hoje desenvolvendo o sistema de PCP (Planejamento e Controle de Produção) que gerencia toda a operação industrial — do CRM ao chão de fábrica.
 
-## 🛠 Stack principal
+Minha trajetória combina suporte técnico, web design e desenvolvimento full stack, com um foco crescente em **LLMs aplicados, agentes de voz e automação de processos de negócio**.
 
-`Python` · `Firebase` · `React` · `Node.js` · `MQTT/IoT` · `Linux` · `GitHub Actions`
+## 🛠 Stack
 
-## 🚧 Projetos em Desenvolvimento
+**Linguagens & Frameworks:** Python · TypeScript · React · Node.js
+**IA & Automação:** OpenAI (GPT-4o) · ElevenLabs · Twilio · n8n · Voice Agents
+**Integrações:** Tiny ERP · Alterdata · Plataformas B2B · APIs REST
+**Infra & DevOps:** Docker · Coolify · GitHub Actions · GHCR · Linux
 
-> Os projetos abaixo são privados (sob NDA), mas mantenho a documentação técnica pública atualizada automaticamente. Clique nos cards para ver arquitetura, stack detalhada e desafios resolvidos.
+## 🚀 Projetos em destaque
 
-<!-- PROJETOS:START -->
+### 🏭 PCP Embalagem — Sistema de Controle de Produção
+Sistema completo de Planejamento e Controle de Produção desenvolvido para a indústria de embalagens. Gerencia o ciclo completo: CRM, orçamentos, produção, controle de estoque e logística. Deploy automatizado via Docker e Coolify.
+**Stack:** Python · React · Firebase · Docker · GitHub Actions
+**Status:** 🟢 Em desenvolvimento ativo @ Scuadra Embalagens
 
-<!-- PROJECT:exemplo-projeto:START -->
-### 🏭 Sistema de Gestão Industrial
-Plataforma de PCP com integração IoT para chão de fábrica.
-**Stack:** Python · Firebase · MQTT · React
-**Status:** 🟢 Em desenvolvimento ativo
+### 🛒 Plataforma B2B Scuadra
+Implantação e integração de plataforma B2B para pedidos de clientes da Scuadra Embalagens, conectando o catálogo digital ao Tiny ERP.
+**Stack:** Node.js · React · Tiny API · Docker
+**Status:** 🟢 Em produção
 
-[→ Documentação técnica](https://github.com/marcelomprates/portfolio/tree/main/projetos/exemplo-projeto)
-<!-- PROJECT:exemplo-projeto:END -->
+### 🤖 Agentes de IA & Voice Agents
+Estudos e implementações práticas com LLMs (GPT-4o), automação no n8n e agentes de voz com ElevenLabs/Twilio. Parte da minha formação contínua em IA & Automação Digital.
 
-<!-- PROJETOS:END -->
+## 📚 Formação
+
+🎓 **Bacharelado em Engenharia de Software** — UNINTER (2025–2029, em andamento)
+🎓 **Tecnólogo em Inteligência Artificial e Automação Digital** — Faculdade Rocketseat (2026–2027, em andamento)
+🎓 **Técnico em Informática Industrial** — ETEP Faculdades
 
 ## 📊 Atividade
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelomprates&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelomprates&show_icons=true&theme=default&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomprates&layout=compact&theme=default&count_private=true)
 
 ## 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/marcelo-de-morais-prates
-- Email: marcelomprates@gmail.com
-
----
-
-<sub>📌 A seção "Projetos em Desenvolvimento" é atualizada automaticamente via GitHub Actions sempre que eu atualizo a documentação dos projetos privados. Veja como funciona no [repo de portfólio](https://github.com/marcelomprates/portfolio).</sub>
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-de-morais-prates)
+- 📧 marcelomprates@gmail.com
+- 📍 Guarulhos, São Paulo
