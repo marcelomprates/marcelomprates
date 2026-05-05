@@ -11,23 +11,29 @@ Trabalho em parceria com IA (Claude, GPT-4o, Cursor, Copilot) como ferramenta de
 ## 🛠 Stack
 
 **Linguagens & Frameworks:** Python · TypeScript · React · Node.js
-**IA & Automação:** OpenAI (GPT-4o) · Claude · ElevenLabs · Twilio · n8n · Voice Agents
+**IA & Automação:** OpenAI (GPT-4o) · Claude · Google Gemini · ElevenLabs · Twilio · n8n · Voice Agents
 **Integrações:** Tiny ERP · Alterdata · Plataformas B2B · APIs REST
 **Infra & DevOps:** Docker · Coolify · GitHub Actions · GHCR · Linux
-**Ferramentas de Vibe Coding:** Cursor · Claude Code · GitHub Copilot
+**Ferramentas de Vibe Coding:** Claude Code · GitHub Copilot
 
 ## 🚀 Projetos em destaque
 
 ### 🏭 PCP Embalagem — Sistema de Controle de Produção
 Sistema completo de Planejamento e Controle de Produção desenvolvido para a indústria de embalagens. Gerencia o ciclo completo: CRM, orçamentos, produção, controle de estoque e logística. Deploy automatizado via Docker e Coolify.
 **Stack:** Python · React · Firebase · Docker · GitHub Actions
-**Método:** Vibe Coding com Claude e Cursor
+**Método:** Vibe Coding com Claude
 **Status:** 🟢 Em desenvolvimento ativo @ Scuadra Embalagens
 
 ### 🛒 Plataforma B2B Scuadra
 Implantação e integração de plataforma B2B para pedidos de clientes da Scuadra Embalagens, conectando o catálogo digital ao Tiny ERP.
 **Stack:** Node.js · React · Tiny API · Docker
 **Status:** 🟢 Em produção
+
+### 💰 Controle Financeiro — API com IA
+API de controle financeiro pessoal com análise inteligente de gastos via Google Gemini. Leitura de NFC-e por QR Code, gestão de cartões e parcelas, receitas recorrentes e relatório mensal com IA que classifica saúde financeira e sugere ações práticas.
+**Stack:** Python · FastAPI · Firebase Firestore · Google Gemini
+**Método:** Vibe Coding com Claude
+**Status:** 🟢 Em desenvolvimento ativo
 
 ### 🤖 Agentes de IA & Voice Agents
 Estudos e implementações práticas com LLMs (GPT-4o), automação no n8n e agentes de voz com ElevenLabs/Twilio. Parte da minha formação contínua em IA & Automação Digital.
